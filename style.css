@@ -1,0 +1,28 @@
+@font-face {
+    font-family: "SFArabic";
+    src: url("font/SFArabicRoundedRegular.ttf") format("truetype");
+}
+@font-face {
+    font-family: "SFPro";
+    src: url("font/SFProRoundedRegular.OTF") format("truetype");
+}
+
+body
+{
+    font-family: "SFArabic","SFPro";
+}
+
+ul
+{
+    font-weight: bold;
+}
+
+p{
+    font-weight: 400;
+}
+
+h1
+{
+    color: #ff3a7f;
+}
+
